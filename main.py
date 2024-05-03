@@ -4,9 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pyAgrum as gum
 import pyAgrum.lib.notebook as gnb
- 
-from sklearn.metrics import accuracy_score
- 
+
 st.title('Bayesian Network for workload detection')
  
 st.write("""
