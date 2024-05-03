@@ -2,3 +2,4 @@ streamlit
 numpy
 matplotlib
 pyAgrum
+matplotlib_inline
